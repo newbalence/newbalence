@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=newbalence&show_icons=true&theme=radical)<br>  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=newbalence&show_icons=true&theme=radical)<br>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newbalence&layout=compact)
 
 </div>
@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
 <!--   https://github.com/Ileriayo/markdown-badges -->
+  <img src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green"/></a>&nbsp 
+  <br>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>&nbsp 
   <br>
