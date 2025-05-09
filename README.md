@@ -40,9 +40,12 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=newbalence&show_icons=true&theme=radical)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newbalence&layout=compact)
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=newbalence&show_icons=true&theme=radical)<br>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newbalence&layout=compact)
+
 </div>
+
 
 
 <h3 align="center">📚 Tech Stack 📚</h3>
